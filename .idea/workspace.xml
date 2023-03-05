@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0acfa509-fdc5-499f-92bd-b48ce8db5eb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/postgresql-42.5.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/dev/3/.vscode/launch.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/dev/3/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/dev/3/WEB-INF/beans.xml" beforeDir="false" />
@@ -69,7 +68,30 @@
       <change beforePath="$PROJECT_DIR$/../../../5/dev/5/scripts/view/page/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5/dev/5/scripts/view/page/table.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/dev/6/WEB-INF/classes/pack/repository/user/UsersRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5/dev/6/WEB-INF/classes/pack/repository/user/UsersRep.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/dev/6/WEB-INF/classes/pack/repository/user/UsersRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5/dev/6/WEB-INF/classes/pack/repository/user/UsersRep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5/dev/6/src/scripts/model/model.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5/dev/6/src/scripts/model/model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../5/dev/6/src/scripts/transport/xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../5/dev/6/src/scripts/transport/xhr.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../5/methods/trapecia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/builder/BasketBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/builder/BasketBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/builder/ProductsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/builder/ProductsBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/builder/UsersBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/builder/UsersBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/controller/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/controller/config/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/controller/config/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/controller/config/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/controller/path/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/controller/path/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/BasketModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/BasketModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/ProductModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/ProductModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/UserModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/UserModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/api/dto/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/api/dto/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/api/dto/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/api/dto/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/model/api/dto/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/model/api/dto/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/basket/BasketRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/basket/BasketRep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/basket/EBasket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/basket/EBasket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/product/EProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/product/EProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/product/ProductsRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/product/ProductsRep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/user/EUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/user/EUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pack/repository/user/UsersRep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pack/repository/user/UsersRep.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,12 +129,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/programming/web",
+    "last_opened_file_path": "C:/Users/rfnzt/OneDrive/Рабочий стол/myApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -204,7 +226,7 @@
         </option>
       </method>
     </configuration>
-    <configuration name="GlassFish 7.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="GlassFish 7.0.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="18" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="myApp:war">
@@ -295,6 +317,12 @@
       <workItem from="1677595401001" duration="4460000" />
       <workItem from="1677680732702" duration="10000" />
       <workItem from="1677681192336" duration="3556000" />
+      <workItem from="1678006895037" duration="151000" />
+      <workItem from="1678007109521" duration="45000" />
+      <workItem from="1678010427916" duration="75000" />
+      <workItem from="1678010542463" duration="13000" />
+      <workItem from="1678010678900" duration="41000" />
+      <workItem from="1678010748895" duration="97000" />
     </task>
     <servers />
   </component>

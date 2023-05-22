@@ -2,8 +2,8 @@ package pack.application.api.out;
 
 import java.util.ArrayList;
 
-import pack.application.api.dto.Product;
-import pack.infrastructure.repository.product.EProduct;
+import pack.application.dto.Product;
+import pack.infrastructure.out.repository.product.EProduct;
 
 public interface IProductsRep {
     boolean addProduct(Product product);
